@@ -1,0 +1,22 @@
+ITDEV 117 Milestone Project 1
+
+Movie Theater App
+
+The app will allow the moviegoing audience looking to see a movie and order food. 
+The app will allow users to create a log in, choose a movie to see, a specific time to see said movie, and pre-order multiple food items. Upon completion of choices a ticket price will total all chosen items, and display a finalized ticket to the user. The app will also be used by the theater to track the wants of the user.
+
+The app will work like this:
+Login 
+Create
+Existing user log-in
+Selection then begins
+Movie and time selection 
+Movie with times and costs display
+User makes choices
+Displays selections and running total 
+Food ordering 
+Food options display
+User makes choice with ability to add another item
+Cost adds to running total, and displays choices
+Checkout
+Displays all user choices with totals.
